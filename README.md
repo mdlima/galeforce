@@ -52,6 +52,8 @@ You'll have to put the Google Wifi into developer mode:
 9. Hit bubble switch again
 10. Wait about five minutes until device pulsing purple (device shows no lights while updating from USB)
 
+If you did everything correctly, your device is now in developer mode and you should get the same light signals as described [here](https://support.google.com/wifi/answer/6191584?hl=en), except the blue light is now purple.
+
 Once installed you can then:
 
 ```
